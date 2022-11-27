@@ -1,0 +1,16 @@
+{
+"companyName": "Nicso Games",
+"productName": "Noob vs Zombie",
+"productVersion": "0.1",
+"dataUrl": "Build10.data.unityweb",
+"wasmCodeUrl": "Build10.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build10.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
